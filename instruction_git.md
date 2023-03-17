@@ -25,9 +25,9 @@ BitKeeper. В ответ Маквой обвинил разработчиков 
 Торвальдс так саркастически отозвался о выбранном им названии git ( что на 
 английском сленге означает «мерзавец» ):
 
->I'm an egotistical bastard, so I name all my projects after myself. First Linux, 
-now git. ( Я эгоистичный ублюдок, и поэтому называю все свои проекты в честь себя. 
-Сначала Linux, теперь git. )
+>I'm an egotistical bastard, so I name all my projects after myself. First 
+Linux, now git. ( Я эгоистичный ублюдок, и поэтому называю все свои проекты в 
+честь себя. Сначала Linux, теперь git. )
 
 ## **Основные команды Git** 
 
